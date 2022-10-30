@@ -1,22 +1,26 @@
 {
-    "offers": [
-        {
-            "id": 1,
-            "title": "Offer Up To 50% On Camera Lenses",
-            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
-            "image": "camera_offer.jpg"
-        },
-        {
-            "id": 2,
-            "title": "Offer Up To 30% On Camera Lenses",
-            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
-            "image": "camera_offer.jpg"
-        },
-        {
-            "id": 3,
-            "title": "Offer Up To 70% On Camera Lenses",
-            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
-            "image": "camera_offer.jpg"
-        }
-    ]
+    "status": true,
+    "message": "success",
+    "data": {
+        "offers": [
+            {
+                "id": 1,
+                "title": "Offer Up To 50% On Camera Lenses",
+                "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
+                "image": "camera_offer.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Offer Up To 30% On Camera Lenses",
+                "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
+                "image": "camera_offer.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Offer Up To 70% On Camera Lenses",
+                "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
+                "image": "camera_offer.jpg"
+            }
+        ]
+    }
 }

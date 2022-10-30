@@ -1,19 +1,23 @@
 {
-    "headers": [
-        {
-            "id": 1,
-            "title": "Offer Up To 50% On Camera Lenses",
-            "image": "header.jpg"
-        },
-        {
-            "id": 2,
-            "title": "Offer Up To 30% On Camera Lenses",
-            "image": "header.jpg"
-        },
-        {
-            "id": 3,
-            "title": "Offer Up To 70% On Camera Lenses",
-            "image": "header.jpg"
-        }
-    ]
+    "status": true,
+    "message": "success",
+    "data": {
+        "headers": [
+            {
+                "id": 1,
+                "title": "Offer Up To 50% On Camera Lenses",
+                "image": "header.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Offer Up To 30% On Camera Lenses",
+                "image": "header.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Offer Up To 70% On Camera Lenses",
+                "image": "header.jpg"
+            }
+        ]
+    }
 }
