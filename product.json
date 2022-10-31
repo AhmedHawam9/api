@@ -32,39 +32,7 @@
                     "text": "HDMI to SDI Converter HDMI to SD-SDI/HD-SDI/3G-SDI",
                     "rate": 4
                 }
-            ],
-            "links": {
-                "first": "https://ess.crazyideaco.com/public/api/v1/dashboard/blogIndex?page=1",
-                "last": "https://ess.crazyideaco.com/public/api/v1/dashboard/blogIndex?page=1",
-                "prev": null,
-                "next": null
-            },
-            "meta": {
-                "current_page": 1,
-                "from": 1,
-                "last_page": 1,
-                "links": [
-                    {
-                        "url": null,
-                        "label": "&laquo; السابق",
-                        "active": false
-                    },
-                    {
-                        "url": "https://ess.crazyideaco.com/public/api/v1/dashboard/blogIndex?page=1",
-                        "label": "1",
-                        "active": true
-                    },
-                    {
-                        "url": null,
-                        "label": "التالي &raquo;",
-                        "active": false
-                    }
-                ],
-                "path": "https://ess.crazyideaco.com/public/api/v1/dashboard/blogIndex",
-                "per_page": 2,
-                "to": 2,
-                "total": 2
-            }
+            ]
         }
     }
 }
