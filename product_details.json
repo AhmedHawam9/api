@@ -1,0 +1,23 @@
+{
+    "product": {
+        "title": "Black magic HDMI to SDI Converter HDMI to SD-SDI/HD-SDI/3G-SDI",
+        "images" : [
+            {
+                "id": 1,
+                "image": "product1.png"
+            },
+            {
+                "id": 2,
+                "image": "product2.png"
+            },
+            {
+                "id": 3,
+                "image": "product3.png"
+            },
+            {
+                "id": 4,
+                "image": "product4.png"
+            }
+        ]
+    }
+}
