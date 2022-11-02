@@ -6,9 +6,7 @@
             "id": 1,
             "title": "Black magic HDMI to SDI Converter HDMI to SD-SDI/HD-SDI/3G-SDI",
             "brand": "Black magic",
-            "Availability": "In Stock",
-            "Availability_code": 1,
-            /* If Availability_code = 0 this product out of Stock >>> Else If Availability_code = 1 this product In Stock */
+            "Availability": 1,
             "rate": 4,
             "reviews": 10,
             "images": [
