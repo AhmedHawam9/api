@@ -3,7 +3,14 @@
     "message": "success",
     "data": {
         "product": {
+            "id": 1,
             "title": "Black magic HDMI to SDI Converter HDMI to SD-SDI/HD-SDI/3G-SDI",
+            "brand": "Black magic",
+            "Availability": "In Stock",
+            "Availability_code": 1,
+            /* If Availability_code = 0 this product out of Stock >>> Else If Availability_code = 1 this product In Stock */
+            "rate": 4,
+            "reviews": 10,
             "images": [
                 {
                     "id": 1,
@@ -21,7 +28,110 @@
                     "id": 4,
                     "image": "product4.png"
                 }
-            ]
+            ],
+            "product_details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
+            "specifications": {
+                "features": [
+                    "1 x HDMI Input, 2 x SD/HD/3G-SDI Outputs",
+                    "Selectable SD/HD Level A/B SDI Ports",
+                    "Supports up to 1080p60 Resolution I/O",
+                    "USB Power/SDI Re-Clocking/Timecode",
+                    "Automatic Input Signal Detection",
+                    "Compact, Rugged Design",
+                    "Embedded Audio",
+                    "LED Video & Power Signal Indicators",
+                    "AC Power Supply & Socket Adapters"
+                ],
+                "customer_reviews": [
+                    {
+                        "overall_rating": {
+                            "rate": 4.8,
+                            "starts": 4,
+                            "number_of_reviews": 32,
+                            "five_star": 70,
+                            "four_star": 18,
+                            "three_star": 5,
+                            "two_star": 2,
+                            "one_star": 5,
+                            "user_reviews": [
+                                {
+                                    "id": 1,
+                                    "name": "Ahmed Hawam",
+                                    "stars": 3,
+                                    "date": "15 Jul, 2022",
+                                    "title": "Nice",
+                                    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Ahmed Hawam",
+                                    "stars": 3,
+                                    "date": "15 Jul, 2022",
+                                    "title": "Nice",
+                                    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Ahmed Hawam",
+                                    "stars": 3,
+                                    "date": "15 Jul, 2022",
+                                    "title": "Nice",
+                                    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "specifications_details": {
+                    "video_input_connectors": "1 x HDMI (HDMI 2.0)",
+                    "input_video_format": "HDMI (8/10-Bit 4:2:2 RGB, YUV) 1080p: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps 1080i: 50/59.94/60 fps 720p: 50/59.94/60 fps NTSC: 29.97 fps PAL: 25 fps",
+                    "Audio Input Connectors": "None",
+                    "Embedded Audio Input": "HDMI",
+                    "Video Output Connectors": "2 x BNC (3G-SDI / HD-SDI / SD-SDI)",
+                    "Output Video Format": "SDI (8/10-Bit 4:2:2 RGB, YUV) DCI 2K: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps DCI 2KPsF: 25/29.97/30 fps 1080p: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps 1080PsF: 25/29.97/30 fps 1080i: 50/59.94/60 fps 720p: 50/59.94/60 fps NTSC: 29.97 fps PAL (768 x 576): 25 fps",
+                    "Audio Output Connectors": "None",
+                    "Embedded Audio Output": "SDI",
+                    "Video Standard Compliance": "SMPTE 259M/292M/296M/424M/425M",
+                    "HDCP Support": "Version 2.2",
+                    "Other I/O": "1 x USB Type-C Input",
+                    "OS Compatibility": "macOS 10.14.15 or Later Windows 10",
+                    "Power Connector": "1 x USB Type-C (4.4 to 5.2 VDC) Input",
+                    "Power Consumption": "2 W",
+                    "Operating Temperature": "32 to 104°F / 0 to 40°C",
+                    "Storage Temperature": "-4 to 140°F / -20 to 60°C",
+                    "Operating Humidity": "0 to 90%"
+                },
+                "related_products": [
+                    {
+                        "id": 1,
+                        "image": "product1.png",
+                        "title": "HD CAPTURE PRO",
+                        "text": "EzCAP295 Capture Card via HDMI/Ypbpr/AV Input with Remote Control",
+                        "rate": 4
+                    },
+                    {
+                        "id": 2,
+                        "image": "product2.png",
+                        "title": "BEAM",
+                        "text": "260W 9R Beam Moving Head ELB-BEAM260-9R",
+                        "rate": 4
+                    },
+                    {
+                        "id": 3,
+                        "image": "product3.png",
+                        "title": "sirui",
+                        "text": "sirui-sh25-veo-tripod-kit",
+                        "rate": 4
+                    },
+                    {
+                        "id": 4,
+                        "image": "product4.png",
+                        "title": "Black magic",
+                        "text": "HDMI to SDI Converter HDMI to SD-SDI/HD-SDI/3G-SDI",
+                        "rate": 4
+                    }
+                ]
+            }
         }
     }
 }
