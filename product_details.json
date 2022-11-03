@@ -99,38 +99,38 @@
                     "Operating Temperature": "32 to 104°F / 0 to 40°C",
                     "Storage Temperature": "-4 to 140°F / -20 to 60°C",
                     "Operating Humidity": "0 to 90%"
+                }
+            },
+            "related_products": [
+                {
+                    "id": 1,
+                    "image": "product1.png",
+                    "title": "HD CAPTURE PRO",
+                    "text": "EzCAP295 Capture Card via HDMI/Ypbpr/AV Input with Remote Control",
+                    "rate": 4
                 },
-                "related_products": [
-                    {
-                        "id": 1,
-                        "image": "product1.png",
-                        "title": "HD CAPTURE PRO",
-                        "text": "EzCAP295 Capture Card via HDMI/Ypbpr/AV Input with Remote Control",
-                        "rate": 4
-                    },
-                    {
-                        "id": 2,
-                        "image": "product2.png",
-                        "title": "BEAM",
-                        "text": "260W 9R Beam Moving Head ELB-BEAM260-9R",
-                        "rate": 4
-                    },
-                    {
-                        "id": 3,
-                        "image": "product3.png",
-                        "title": "sirui",
-                        "text": "sirui-sh25-veo-tripod-kit",
-                        "rate": 4
-                    },
-                    {
-                        "id": 4,
-                        "image": "product4.png",
-                        "title": "Black magic",
-                        "text": "HDMI to SDI Converter HDMI to SD-SDI/HD-SDI/3G-SDI",
-                        "rate": 4
-                    }
-                ]
-            }
+                {
+                    "id": 2,
+                    "image": "product2.png",
+                    "title": "BEAM",
+                    "text": "260W 9R Beam Moving Head ELB-BEAM260-9R",
+                    "rate": 4
+                },
+                {
+                    "id": 3,
+                    "image": "product3.png",
+                    "title": "sirui",
+                    "text": "sirui-sh25-veo-tripod-kit",
+                    "rate": 4
+                },
+                {
+                    "id": 4,
+                    "image": "product4.png",
+                    "title": "Black magic",
+                    "text": "HDMI to SDI Converter HDMI to SD-SDI/HD-SDI/3G-SDI",
+                    "rate": 4
+                }
+            ]
         }
     }
 }
