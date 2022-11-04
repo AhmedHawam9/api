@@ -41,46 +41,6 @@
                     "LED Video & Power Signal Indicators",
                     "AC Power Supply & Socket Adapters"
                 ],
-                "customer_reviews": [
-                    {
-                        "overall_rating": {
-                            "rate": 4.8,
-                            "starts": 4,
-                            "number_of_reviews": 32,
-                            "five_star": 70,
-                            "four_star": 18,
-                            "three_star": 5,
-                            "two_star": 2,
-                            "one_star": 5,
-                            "user_reviews": [
-                                {
-                                    "id": 1,
-                                    "name": "Ahmed Hawam",
-                                    "stars": 3,
-                                    "date": "15 Jul, 2022",
-                                    "title": "Nice",
-                                    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                                },
-                                {
-                                    "id": 2,
-                                    "name": "Ahmed Hawam",
-                                    "stars": 3,
-                                    "date": "15 Jul, 2022",
-                                    "title": "Nice",
-                                    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                                },
-                                {
-                                    "id": 3,
-                                    "name": "Ahmed Hawam",
-                                    "stars": 3,
-                                    "date": "15 Jul, 2022",
-                                    "title": "Nice",
-                                    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                                }
-                            ]
-                        }
-                    }
-                ],
                 "specifications_details": {
                     "video_input_connectors": "1 x HDMI (HDMI 2.0)",
                     "input_video_format": "HDMI (8/10-Bit 4:2:2 RGB, YUV) 1080p: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps 1080i: 50/59.94/60 fps 720p: 50/59.94/60 fps NTSC: 29.97 fps PAL: 25 fps",
@@ -101,6 +61,46 @@
                     "Operating Humidity": "0 to 90%"
                 }
             },
+            "customer_reviews": [
+                {
+                    "overall_rating": {
+                        "rate": 4.8,
+                        "starts": 4,
+                        "number_of_reviews": 32,
+                        "five_star": 70,
+                        "four_star": 18,
+                        "three_star": 5,
+                        "two_star": 2,
+                        "one_star": 5,
+                        "user_reviews": [
+                            {
+                                "id": 1,
+                                "name": "Ahmed Hawam",
+                                "stars": 3,
+                                "date": "15 Jul, 2022",
+                                "title": "Nice",
+                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Ahmed Hawam",
+                                "stars": 3,
+                                "date": "15 Jul, 2022",
+                                "title": "Nice",
+                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Ahmed Hawam",
+                                "stars": 3,
+                                "date": "15 Jul, 2022",
+                                "title": "Nice",
+                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                            }
+                        ]
+                    }
+                }
+            ],
             "related_products": [
                 {
                     "id": 1,
