@@ -41,25 +41,76 @@
                     "LED Video & Power Signal Indicators",
                     "AC Power Supply & Socket Adapters"
                 ],
-                "specifications_details": {
-                    "video_input_connectors": "1 x HDMI (HDMI 2.0)",
-                    "input_video_format": "HDMI (8/10-Bit 4:2:2 RGB, YUV) 1080p: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps 1080i: 50/59.94/60 fps 720p: 50/59.94/60 fps NTSC: 29.97 fps PAL: 25 fps",
-                    "audio_input_connectors": "None",
-                    "embedded_audio_input": "HDMI",
-                    "video_output_connectors": "2 x BNC (3G-SDI / HD-SDI / SD-SDI)",
-                    "output_video_format": "SDI (8/10-Bit 4:2:2 RGB, YUV) DCI 2K: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps DCI 2KPsF: 25/29.97/30 fps 1080p: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps 1080PsF: 25/29.97/30 fps 1080i: 50/59.94/60 fps 720p: 50/59.94/60 fps NTSC: 29.97 fps PAL (768 x 576): 25 fps",
-                    "audio_output_connectors": "None",
-                    "embedded_audio_output": "SDI",
-                    "video_standard_compliance": "SMPTE 259M/292M/296M/424M/425M",
-                    "hdcp_support": "Version 2.2",
-                    "other_input_output": "1 x USB Type-C Input",
-                    "os_compatibility": "macOS 10.14.15 or Later Windows 10",
-                    "power_connector": "1 x USB Type-C (4.4 to 5.2 VDC) Input",
-                    "power_consumption": "2 W",
-                    "operating_temperature": "32 to 104°F / 0 to 40°C",
-                    "storage_temperature": "-4 to 140°F / -20 to 60°C",
-                    "operating_humidity": "0 to 90%"
-                }
+                "specifications_details": [
+                    {
+                        "title": "Video Input Connectors",
+                        "text": "1 x HDMI (HDMI 2.0)"
+                    },
+                    {
+                        "title": "Input Video Format",
+                        "text": "HDMI (8/10-Bit 4:2:2 RGB, YUV) 1080p: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps 1080i: 50/59.94/60 fps 720p: 50/59.94/60 fps NTSC: 29.97 fps PAL: 25 fps"
+                    },
+                    {
+                        "title": "Audio Input Connectors",
+                        "text": "None"
+                    },
+                    {
+                        "title": "Embedded Audio Input",
+                        "text": "HDMI"
+                    },
+                    {
+                        "title": "Video Output Connectors",
+                        "text": "2 x BNC (3G-SDI / HD-SDI / SD-SDI)"
+                    },
+                    {
+                        "title": "Output Video Format",
+                        "text": "SDI (8/10-Bit 4:2:2 RGB, YUV) DCI 2K: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps DCI 2KPsF: 25/29.97/30 fps 1080p: 23.98/24/25/29.97/30/47.95/48/50/59.94/60 fps 1080PsF: 25/29.97/30 fps 1080i: 50/59.94/60 fps 720p: 50/59.94/60 fps NTSC: 29.97 fps PAL (768 x 576): 25 fps"
+                    },
+                    {
+                        "title": "Audio Output Connectors",
+                        "text": "None"
+                    },
+                    {
+                        "title": "Embedded Audio Output",
+                        "text": "SDI"
+                    },
+                    {
+                        "title": "Video Standard Compliance",
+                        "text": "SMPTE 259M/292M/296M/424M/425M"
+                    },
+                    {
+                        "title": "HDCP Support",
+                        "text": "Version 2.2"
+                    },
+                    {
+                        "title": "Other I/O",
+                        "text": "1 x USB Type-C Input"
+                    },
+                    {
+                        "title": "OS Compatibility",
+                        "text": "macOS 10.14.15 or Later Windows 10"
+                    },
+                    {
+                        "title": "Power Connector",
+                        "text": "1 x USB Type-C (4.4 to 5.2 VDC) Input"
+                    },
+                    {
+                        "title": "Power Consumption",
+                        "text": "2 W"
+                    },
+                    {
+                        "title": "Operating Temperature",
+                        "text": "32 to 104°F / 0 to 40°C"
+                    },
+                    {
+                        "title": "Storage Temperature",
+                        "text": "-4 to 140°F / -20 to 60°C"
+                    },
+                    {
+                        "title": "Operating Humidity",
+                        "text": "0 to 90%"
+                    }
+                ]
             },
             "customer_reviews": [
                 {
