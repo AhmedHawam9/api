@@ -10,6 +10,7 @@
             "_________comment_________": "_________ If availability = 0 this product out of Stock >>> Else If availability = 1 this product In Stock _________",
             "rate": 4,
             "reviews": 10,
+            "image": "product1.png",
             "images": [
                 {
                     "id": 1,
