@@ -124,34 +124,34 @@
                         "four_star": 18,
                         "three_star": 5,
                         "two_star": 2,
-                        "one_star": 5,
-                        "user_reviews": [
-                            {
-                                "id": 1,
-                                "name": "Ahmed Hawam",
-                                "stars": 3,
-                                "date": "15 Jul, 2022",
-                                "title": "Nice",
-                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                            },
-                            {
-                                "id": 2,
-                                "name": "Ahmed Hawam",
-                                "stars": 3,
-                                "date": "15 Jul, 2022",
-                                "title": "Nice",
-                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                            },
-                            {
-                                "id": 3,
-                                "name": "Ahmed Hawam",
-                                "stars": 3,
-                                "date": "15 Jul, 2022",
-                                "title": "Nice",
-                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                            }
-                        ]
-                    }
+                        "one_star": 5
+                    },
+                    "user_reviews": [
+                        {
+                            "id": 1,
+                            "name": "Ahmed Hawam",
+                            "stars": 3,
+                            "date": "15 Jul, 2022",
+                            "title": "Nice",
+                            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Ahmed Hawam",
+                            "stars": 3,
+                            "date": "15 Jul, 2022",
+                            "title": "Nice",
+                            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Ahmed Hawam",
+                            "stars": 3,
+                            "date": "15 Jul, 2022",
+                            "title": "Nice",
+                            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                        }
+                    ]
                 }
             ],
             "related_products": [
