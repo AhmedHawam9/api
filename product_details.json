@@ -117,7 +117,7 @@
             "customer_reviews": {
                 "overall_rating": {
                     "rate": 4.8,
-                    "starts": 4,
+                    "stars": 4,
                     "number_of_reviews": 32,
                     "five_star": 70,
                     "four_star": 18,
