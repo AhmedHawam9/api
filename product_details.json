@@ -10,6 +10,7 @@
             "_________comment_________": "_________ If availability = 0 this product out of Stock >>> Else If availability = 1 this product In Stock _________",
             "rate": "4",
             "reviews": 10,
+            "price": 900,
             "image": "product1.png",
             "images": [
                 {
@@ -113,46 +114,44 @@
                     }
                 ]
             },
-            "customer_reviews": [
-                {
-                    "overall_rating": {
-                        "rate": 4.8,
-                        "starts": 4,
-                        "number_of_reviews": 32,
-                        "five_star": 70,
-                        "four_star": 18,
-                        "three_star": 5,
-                        "two_star": 2,
-                        "one_star": 5,
-                        "user_reviews": [
-                            {
-                                "id": 1,
-                                "name": "Ahmed Hawam",
-                                "stars": 3,
-                                "date": "15 Jul, 2022",
-                                "title": "Nice",
-                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                            },
-                            {
-                                "id": 2,
-                                "name": "Ahmed Hawam",
-                                "stars": 3,
-                                "date": "15 Jul, 2022",
-                                "title": "Nice",
-                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                            },
-                            {
-                                "id": 3,
-                                "name": "Ahmed Hawam",
-                                "stars": 3,
-                                "date": "15 Jul, 2022",
-                                "title": "Nice",
-                                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
-                            }
-                        ]
+            "customer_reviews": {
+                "overall_rating": {
+                    "rate": 4.8,
+                    "stars": 4,
+                    "number_of_reviews": 32,
+                    "five_star": 70,
+                    "four_star": 18,
+                    "three_star": 5,
+                    "two_star": 2,
+                    "one_star": 5
+                },
+                "user_reviews": [
+                    {
+                        "id": 1,
+                        "name": "Ahmed Hawam",
+                        "stars": 3,
+                        "date": "15 Jul, 2022",
+                        "title": "Nice",
+                        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Ahmed Hawam",
+                        "stars": 3,
+                        "date": "15 Jul, 2022",
+                        "title": "Nice",
+                        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Ahmed Hawam",
+                        "stars": 3,
+                        "date": "15 Jul, 2022",
+                        "title": "Nice",
+                        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
                     }
-                }
-            ],
+                ]
+            },
             "related_products": [
                 {
                     "id": 1,
