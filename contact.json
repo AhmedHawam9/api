@@ -1,0 +1,23 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "address": [
+            "2 wady elnil st intersect Algalaa st El-Mahalla el-Kubra, Gharbia Governorate, Egypt 31911"
+        ],
+        "email": [
+            "reda_saygh@hotmail.com"
+        ],
+        "phone": [
+            "(+02) 01205880871",
+            "(+02) 0402250223"
+        ],
+        "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3420.6100269455474!2d31.168049315092322!3d30.98136318155122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f7a55cb55c6cdd%3A0x3fb6b4f87adcc4b1!2sElsaygh%20for%20import!5e0!3m2!1sen!2seg!4v1670861501103!5m2!1sen!2seg",
+        "facebook_link": "https://web.facebook.com/ahmedhawam2030",
+        "linkedin_link": "https://www.linkedin.com/in/ahmed-hawam2020/",
+        "youtube_link": "https://www.youtube.com/@Jeelyaqraa",
+        "twitter_link": "https://twitter.com/AhmedHawam98",
+        "whatsapp_link": "https://wa.me/00201111488849",
+        "telegram_link": ""
+    }
+}
