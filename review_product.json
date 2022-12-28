@@ -1,0 +1,32 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "reviews": [
+            {
+                "id": 1,
+                "name": "HD CAPTURE PRO",
+                "star": 3,
+                "date": "15 Jul, 2022",
+                "title": "Nice",
+                "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor "
+            },
+            {
+                "id": 2,
+                "name": "HD CAPTURE PRO",
+                "star": 3,
+                "date": "15 Jul, 2022",
+                "title": "Nice",
+                "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor "
+            },
+            {
+                "id": 3,
+                "name": "HD CAPTURE PRO",
+                "star": 3,
+                "date": "15 Jul, 2022",
+                "title": "Nice",
+                "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor "
+            }
+        ]
+    }
+}
