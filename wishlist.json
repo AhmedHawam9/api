@@ -1,0 +1,32 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "wishlist": [
+            {
+                "id": 1,
+                "image": "product1.png",
+                "title": "HD CAPTURE PRO",
+                "price": 3000
+            },
+            {
+                "id": 2,
+                "image": "product2.png",
+                "title": "BEAM",
+                "price": 3000
+            },
+            {
+                "id": 3,
+                "image": "product3.png",
+                "title": "sirui",
+                "price": 3000
+            },
+            {
+                "id": 4,
+                "image": "product4.png",
+                "title": "Black magic",
+                "price": 3000
+            }
+        ]
+    }
+}
