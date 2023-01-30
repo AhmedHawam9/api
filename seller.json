@@ -1,21 +1,21 @@
 {
     "status": true,
     "message": "success",
-    "data": {
-        "cardOne": {
+    "data": [
+        {
             "id": 1,
             "image": "seller1.png",
             "title": "Dicount on all TASCAM Products"
         },
-        "cardTwo": {
+        {
             "id": 2,
             "image": "seller2.png",
             "title": "Offers on Studio and Lighting"
         },
-        "cardThree": {
+        {
             "id": 3,
             "image": "seller3.png",
             "title": "Offer Up To 50% On Cameras"
         }
-    }
+    ]
 }
