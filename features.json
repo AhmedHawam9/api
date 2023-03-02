@@ -7,13 +7,13 @@
         "features": [
             {
                 "id": 1,
-                "image": "@/assets/media/icon/psychological_advice.png",
+                "image": "psychological_advice.png",
                 "title": "استشارة نفسية",
                 "text": "يمكنك من خلال الخدمة التواصل مع الطبيبة من خلال شبكة الانترنت وتلقي الحلول الصحية المناسبة لك"
             },
             {
                 "id": 2,
-                "image": "require('@/assets/media/icon/podcast.png')",
+                "image": "podcast.png",
                 "title": "بودكاست",
                 "text": "يمكنك من خلال الخدمة الاستماع الى كل تسجيلات الطبيبة الهامة بحالتك والتعرف على معلومات كثيرة"
             },
