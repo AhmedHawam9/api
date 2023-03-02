@@ -7,7 +7,7 @@
         "features": [
             {
                 "id": 1,
-                "image": "psychological_advice.png",
+                "image": "@/assets/media/icon/psychological_advice.png",
                 "title": "استشارة نفسية",
                 "text": "يمكنك من خلال الخدمة التواصل مع الطبيبة من خلال شبكة الانترنت وتلقي الحلول الصحية المناسبة لك"
             },
