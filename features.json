@@ -13,7 +13,7 @@
             },
             {
                 "id": 2,
-                "image": "podcast.png",
+                "image": "require('@/assets/media/icon/podcast.png')",
                 "title": "بودكاست",
                 "text": "يمكنك من خلال الخدمة الاستماع الى كل تسجيلات الطبيبة الهامة بحالتك والتعرف على معلومات كثيرة"
             },
