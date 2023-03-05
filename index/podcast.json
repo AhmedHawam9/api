@@ -7,24 +7,28 @@
         "image": "https://ahmedhawam9.github.io/api/media/podcast.jpg",
         "podcasts": [
             {
+                "id": 1,
                 "image": "",
                 "title": "افضل الطرق لتعليم الاطفال بحياة صحية",
                 "date": "1 مارس , 2022",
                 "link": "https://ahmedhawam9.github.io/api/media/podcast.mp3"
             },
             {
+                "id": 2,
                 "image": "",
                 "title": "افضل الطرق لتعليم الاطفال بحياة صحية",
                 "date": "1 مارس , 2022",
                 "link": "https://ahmedhawam9.github.io/api/media/podcast.mp3"
             },
             {
+                "id": 3,
                 "image": "",
                 "title": "افضل الطرق لتعليم الاطفال بحياة صحية",
                 "date": "1 مارس , 2022",
                 "link": "https://ahmedhawam9.github.io/api/media/podcast.mp3"
             },
             {
+                "id": 4,
                 "image": "",
                 "title": "افضل الطرق لتعليم الاطفال بحياة صحية",
                 "date": "1 مارس , 2022",
