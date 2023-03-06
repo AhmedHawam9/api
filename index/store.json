@@ -1,0 +1,24 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "title": "نقوم بتوفير افضل الكتب التى تفيدك بمجالات الحياة",
+        "text": "اصبح من السهل الآن تلقي الخدمات التى تحتاجها وانت فى مكان تعرف عليها الآن",
+        "stores": [
+            {
+                "id": 1,
+                "image": "https://ahmedhawam9.github.io/api/media/book.jpg",
+                "title": "كتاب كيف تصل الى عقل طفلك والتعامل معه باسلوب متطور",
+                "price": "250",
+                "link": "https://ahmedhawam9.github.io/api/media/pdf.pdf"
+            },
+            {
+                "id": 2,
+                "image": "https://ahmedhawam9.github.io/api/media/book2.jpg",
+                "title": "كتاب كيف تصل الى عقل طفلك والتعامل معه باسلوب متطور",
+                "price": "250",
+                "link": "https://ahmedhawam9.github.io/api/media/pdf.pdf"
+            }
+        ]
+    }
+}
