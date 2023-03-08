@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "title": "مركز استشارات أسرية متكامل من أفضل و أمهر الأطباء",
+        "text": "نخبة من أمهر الأطباء لدينا فى المركز فقط أختر طبيبك المفضل لديك واحجز استشارتك الآن",
+        "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
+        "cards": [
+            {
+                "image": "https://ahmedhawam9.github.io/api/media/doctor_icon.png",
+                "title": "خبرة كبيرة فى التخصص",
+                "text": "نخبة من أمهر الأطباء لدينا فى المركز فقط أختر طبيبك المفضل لديك واحجز استشارتك الآن"
+            },
+            {
+                "image": "https://ahmedhawam9.github.io/api/media/top_person_icon.png",
+                "title": "أفضل التشخيصات و الحلول",
+                "text": "نخبة من أمهر الأطباء لدينا فى المركز فقط أختر طبيبك المفضل لديك واحجز استشارتك الآن"
+            }
+        ]
+    }
+}
