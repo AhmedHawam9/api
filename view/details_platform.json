@@ -1,0 +1,48 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "id": 1,
+        "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
+        "video": "https://ahmedhawam9.github.io/api/media/video.mp4",
+        "title": "افضل الطرق لتربية طفل سوي عقليا ونفسيا فى المجتمعات الحالية المتفتحة",
+        "lesson_number": "32",
+        "total_hours": "4",
+        "course_duration": "6",
+        "price": "250",
+        "list_learn": [
+            "الكيفية العلمية و التربوية في نقل المعرفة الحياتية بما يلائم كل مرحلة عمرية",
+            "الجاهزية والكفاءة أثناء نقلك للمعرفة الحياتية",
+            "التمكين و الثقة للإجابة على الاسئلة الحرجة و الصعبة من قبل الابناء",
+            "الكيفية العلمية و التربوية في نقل المعرفة الحياتية بما يلائم كل مرحلة عمرية",
+            "الجاهزية والكفاءة أثناء نقلك للمعرفة الحياتية",
+            "التمكين و الثقة للإجابة على الاسئلة الحرجة و الصعبة من قبل الابناء"
+        ],
+        "related_course": [
+            {
+                "id": 1,
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
+                "title": "افضل الطرق لتربية طفل سوي عقليا ونفسيا فى المجتمعات الحالية المتفتحة",
+                "lesson_number": "32",
+                "total_hours": "4",
+                "price": "250"
+            },
+            {
+                "id": 1,
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
+                "title": "افضل الطرق لتربية طفل سوي عقليا ونفسيا فى المجتمعات الحالية المتفتحة",
+                "lesson_number": "32",
+                "total_hours": "4",
+                "price": "250"
+            },
+            {
+                "id": 1,
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
+                "title": "افضل الطرق لتربية طفل سوي عقليا ونفسيا فى المجتمعات الحالية المتفتحة",
+                "lesson_number": "32",
+                "total_hours": "4",
+                "price": "250"
+            }
+        ]
+    }
+}

@@ -7,7 +7,7 @@
         "cards": [
             {
                 "id": 1,
-                "image": "",
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
                 "title": "افضل الطرق لتربية طفل سوي عقليا ونفسيا فى المجتمعات الحالية المتفتحة",
                 "lesson_number": "32",
                 "total_hours": "4",
@@ -15,7 +15,7 @@
             },
             {
                 "id": 2,
-                "image": "",
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
                 "title": "كيفية التعامل مع المشاكل الحياتية ومواجهتها وعدم التأثر بها نفسيا وصحيا",
                 "lesson_number": "32",
                 "total_hours": "4",
@@ -23,7 +23,7 @@
             },
             {
                 "id": 3,
-                "image": "",
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
                 "title": "كيف ازيد من ثقتي بنفسي واصبح قوي الشخصية",
                 "lesson_number": "32",
                 "total_hours": "4",
