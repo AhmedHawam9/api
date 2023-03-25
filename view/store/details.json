@@ -50,6 +50,13 @@
                 "link": "https://ahmedhawam9.github.io/api/media/pdf.pdf",
                 "title": "كتاب كيف تصل الى عقل طفلك والتعامل معه باسلوب متطور ",
                 "price": "250"
+            },
+            {
+                "id": 2,
+                "image": "https://ahmedhawam9.github.io/api/media/book.jpg",
+                "link": "https://ahmedhawam9.github.io/api/media/pdf.pdf",
+                "title": "كتاب كيف تصل الى عقل طفلك والتعامل معه باسلوب متطور ",
+                "price": "300"
             }
         ]
     }
