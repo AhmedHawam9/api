@@ -1,0 +1,40 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "title": "محتوي هادف يشمل خبراتي العلمية والعملية",
+        "text": "اصبح من السهل الآن تلقي الخدمات التى تحتاجها وانت فى مكان تعرف عليها الآن",
+        "cards": [
+            {
+                "id": 1,
+                "image": "https://ahmedhawam9.github.io/api/media/consult1.jpg",
+                "title": "الارشاد النفسي للأطفال (علاج اللعب المتمركز حول الطفل) – Child Centered Play Therapy"
+            },
+            {
+                "id": 2,
+                "image": "https://ahmedhawam9.github.io/api/media/consult2.jpg",
+                "title": "الارشاد النفسي للأطفال (علاج اللعب المتمركز حول الطفل) – Child Centered Play Therapy"
+            },
+            {
+                "id": 3,
+                "image": "https://ahmedhawam9.github.io/api/media/consult3.jpg",
+                "title": "الارشاد النفسي للأطفال (علاج اللعب المتمركز حول الطفل) – Child Centered Play Therapy"
+            },
+            {
+                "id": 4,
+                "image": "https://ahmedhawam9.github.io/api/media/consult1.jpg",
+                "title": "الارشاد النفسي للأطفال (علاج اللعب المتمركز حول الطفل) – Child Centered Play Therapy"
+            },
+            {
+                "id": 5,
+                "image": "https://ahmedhawam9.github.io/api/media/consult2.jpg",
+                "title": "الارشاد النفسي للأطفال (علاج اللعب المتمركز حول الطفل) – Child Centered Play Therapy"
+            },
+            {
+                "id": 6,
+                "image": "https://ahmedhawam9.github.io/api/media/consult3.jpg",
+                "title": "الارشاد النفسي للأطفال (علاج اللعب المتمركز حول الطفل) – Child Centered Play Therapy"
+            }
+        ]
+    }
+}
