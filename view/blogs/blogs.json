@@ -1,0 +1,52 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "title": "محتوي هادف يشمل خبراتي العلمية والعملية",
+        "text": "اصبح من السهل الآن تلقي الخدمات التى تحتاجها وانت فى مكان تعرف عليها الآن",
+        "cards": [
+            {
+                "id": 1,
+                "image": "https://ahmedhawam9.github.io/api/media/doctor.jpg",
+                "title": "كيف يمكنني ان افعل عند التعرض لمشكلة عاطفية ولمن الجأ",
+                "date": "16 مايو 2022",
+                "read_number": 30451
+            },
+            {
+                "id": 2,
+                "image": "https://ahmedhawam9.github.io/api/media/doctor_image.jpg",
+                "title": "كيف يمكنني ان افعل عند التعرض لمشكلة عاطفية ولمن الجأ",
+                "date": "16 مايو 2022",
+                "read_number": 30451
+            },
+            {
+                "id": 3,
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
+                "title": "كيف يمكنني ان افعل عند التعرض لمشكلة عاطفية ولمن الجأ",
+                "date": "16 مايو 2022",
+                "read_number": 30451
+            },
+            {
+                "id": 4,
+                "image": "https://ahmedhawam9.github.io/api/media/doctor.jpg",
+                "title": "كيف يمكنني ان افعل عند التعرض لمشكلة عاطفية ولمن الجأ",
+                "date": "16 مايو 2022",
+                "read_number": 30451
+            },
+            {
+                "id": 5,
+                "image": "https://ahmedhawam9.github.io/api/media/doctor_image.jpg",
+                "title": "كيف يمكنني ان افعل عند التعرض لمشكلة عاطفية ولمن الجأ",
+                "date": "16 مايو 2022",
+                "read_number": 30451
+            },
+            {
+                "id": 6,
+                "image": "https://ahmedhawam9.github.io/api/media/center_consult.jpg",
+                "title": "كيف يمكنني ان افعل عند التعرض لمشكلة عاطفية ولمن الجأ",
+                "date": "16 مايو 2022",
+                "read_number": 30451
+            }
+        ]
+    }
+}
